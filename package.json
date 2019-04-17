@@ -1,0 +1,24 @@
+{
+  "name": "nuxt",
+  "version": "1.0.0",
+  "description": "My majestic Nuxt.js project",
+  "author": "Heru Arief Wijaya",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^2.6.0",
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0-rc.18",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
